@@ -1,0 +1,37 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6620G (ID=0x9641)
+    Vendor:   ATI
+    VRAM:     1507 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.117 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bill\Desktop\Level Transition Test\Level Transition_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.424540 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 0.380926 ms (FindLiveObjects: 0.061549 ms CreateObjectMapping: 0.039665 ms MarkObjects: 0.261245 ms  DeleteObjects: 0.016413 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.039510 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 237.
+Total: 0.318692 ms (FindLiveObjects: 0.037613 ms CreateObjectMapping: 0.038981 ms MarkObjects: 0.228418 ms  DeleteObjects: 0.011626 ms)
+
